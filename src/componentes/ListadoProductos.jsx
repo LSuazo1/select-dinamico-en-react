@@ -18,7 +18,7 @@ const ListadoProductos = () => {
         }
         traerItems();
 
-    }, [setItem]);
+    }, []);
 
     return (
         <>
